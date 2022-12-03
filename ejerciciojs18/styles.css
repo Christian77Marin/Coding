@@ -1,0 +1,14 @@
+.raton{
+    float:left;
+    width:200px;
+    border: 1px solid black;
+    min-height: 200px;
+}
+.teclado{
+    float:left;
+    width: 200px;
+    border:1px solid black;
+    margin-left: 20px;
+    min-height: 200px;
+    margin-bottom: 1000px;
+}
